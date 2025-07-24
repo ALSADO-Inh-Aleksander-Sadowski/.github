@@ -1,4 +1,4 @@
-# Open-source in German manufacturing
+# Bringing open-source to German manufacturing
 
 [ALSADO](https://www.alsado.de) is a privately owned company, focussing on bringing open-source-software to German manufacturing, especially to small and medium-sized enterprises (SMEs).
 
