@@ -23,6 +23,8 @@ Together with [Altair](https://altair.com/), [Deutsche Raumfahrtagentur im DLR](
 | 27.08.2025 | [STARTUP OPEN AIR 2025 - ALSADO booth with open-source-software in manufacturing](https://www.digitalhub.de/soa/startups) |
 | 17.08.2025 | [FrOSCon Conference - Talk "Open-Source-Software für Maschinenbau-Startups und KMUs"](https://programm.froscon.org/froscon2025/talk/d45368ca-879c-416b-aabf-173ebe85d17e/) |
 | 17.08.2025 | [FrOSCon Conference - FreeCAD and OpenRadioss booth](https://froscon.org/programm/aussteller/) |
+| 22.07.2025 | [VDI Verein Deutscher Ingenieure - Webinar "Open-Source Software für Maschinenbau-Startups und KMUs"](https://www.vdi.de/veranstaltungen/detail/webinar-open-source-software-fuer-maschinenbau-startups-und-kmus-22072025) |
+| 17.06.2025 | [VDI Verein Deutscher Ingenieure - Webinar "Open-Source Software für Maschinenbau-Startups und KMUs"](https://www.vdi.de/veranstaltungen/detail/webinar-open-source-software-fuer-maschinenbau-startups-und-kmus-22072025) |
 | 23.05.2025 | [Printed world conference - Workshop "Building a Mars Rover from Scratch with the Open-Source Software FreeCAD"](https://printed-amsterdam.com/schedule) |
 | 23.05.2025 | [Printed world conference - Talk "Revolutionizing Design in Mechanical Engineering through Open-Source Software and enabling Machine Building Start-ups"](https://printed-amsterdam.com/schedule) |
 | 09.04.2025 | [Carhs automotive CAE Grand Challenge 2025 - Talk "Fully Open-source Workflow for FEM Crash Simulations in Automotive and Aerospace"](https://www.carhs.de/en/grand-challenge-program.html) |
