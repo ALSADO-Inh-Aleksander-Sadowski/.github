@@ -11,3 +11,5 @@ As the first company worldwide, we also offer support for the open-source-CAD-so
 We are very active in traditional and social media, spreading the word about open-source-software in manufacturing.
 
 We also use open-source-software, especially the software, that we develop and support, for our own hardware projects. Some of these hardware projects are open-source - others are proprietary. This way we practise what we preach and lower the perceived risk for other manufacturers.
+
+Together with [Altair](https://github.com/altairengineering), [Deutsche Raumfahrtagentur im DLR](https://www.dlr.de/de/ar) and [VDI – The Association of German Engineers](https://www.vdi.de/en/home) we create collaborative projects, create awareness and organize events around open-source-software in manufacturing.
