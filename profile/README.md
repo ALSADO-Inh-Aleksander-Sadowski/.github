@@ -15,7 +15,7 @@ We also use open-source-software, especially the software, that we develop and s
 Together with [Altair](https://altair.com/), [Deutsche Raumfahrtagentur im DLR](https://www.dlr.de/de/ar) and [VDI – The Association of German Engineers](https://www.vdi.de/en/home) we create collaborative projects, create awareness and organize events around open-source-software in manufacturing.
 
 
-## Schedule
+## Events
 
 | Date | Event |
 | ----- | ------- |
