@@ -4,6 +4,6 @@
 
 We do that, by developing and supporting open-source-projects like [nanoPLM](https://github.com/alekssadowski95/nanoPLM) and [OpenRadioss-WebGUI](https://github.com/alekssadowski95/OpenRadioss-WebGUI).
 
-As the first company worldwide, we also offer support for the open-source-CAD-software [FreeCAD](https://github.com/FreeCAD/FreeCAD).
+As the first company worldwide, we also offer support for the open-source-CAD-software [FreeCAD](https://github.com/FreeCAD/FreeCAD) through training, integration and custom feature development.
 
 We are very active in traditional and social media, spreading the word about open-source-software in manufacturing.
