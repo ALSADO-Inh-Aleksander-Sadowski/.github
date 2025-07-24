@@ -6,4 +6,4 @@ We do that, by developing and supporting open-source-projects like [nanoPLM](htt
 
 As the first company worldwide, we also offer support for the open-source-CAD-software [FreeCAD](https://github.com/FreeCAD/FreeCAD).
 
-We are also very active in traditional and social media, spreading the word about open-source-software in manufacturing.
+We are very active in traditional and social media, spreading the word about open-source-software in manufacturing.
