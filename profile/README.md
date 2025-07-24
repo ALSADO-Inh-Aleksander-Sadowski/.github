@@ -18,7 +18,7 @@ Together with [Altair](https://altair.com/), [Deutsche Raumfahrtagentur im DLR](
 ## Schedule
 
 | Date | Event |
-|--------------|
+| ----- | ------- |
 | 15.10.2025 | [Konstruktionsleiter-Forum 2025 - Talk "Produktentstehungsprozess im Maschinenbau mit Open Source Software"](https://www.konstruktionsleiter-forum.de/programm) |
 | 27.08.2025 | [STARTUP OPEN AIR 2025 - ALSADO booth with open-source-software in manufacturing](https://www.digitalhub.de/soa/startups) |
 | 17.08.2025 | [FrOSCon Conference - Talk "Open-Source-Software für Maschinenbau-Startups und KMUs"](https://programm.froscon.org/froscon2025/talk/d45368ca-879c-416b-aabf-173ebe85d17e/) |
