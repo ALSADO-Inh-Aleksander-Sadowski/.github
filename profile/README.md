@@ -4,6 +4,7 @@
 
 We do that, by developing and supporting open-source-projects like 
 - [nanoPLM](https://github.com/alekssadowski95/nanoPLM) and
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD)
 - [OpenRadioss-WebGUI](https://github.com/alekssadowski95/OpenRadioss-WebGUI)
 
 As the first company worldwide, we also offer support for the open-source-CAD-software [FreeCAD](https://github.com/FreeCAD/FreeCAD) through training, integration and custom feature development.
