@@ -1,4 +1,4 @@
-<img src="alsado-logo-18-durchsichtig.png" width="50%" alt="ALSADO Company logo"></img>
+<img src="alsado-logo-18-durchsichtig.png" width="35%" alt="ALSADO Company logo"></img>
 
 # Bringing open-source to German manufacturing
 
