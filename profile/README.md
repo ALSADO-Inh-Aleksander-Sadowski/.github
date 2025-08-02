@@ -3,7 +3,7 @@
 [ALSADO](https://www.alsado.de) is a privately owned company, focussing on bringing open-source-software to German manufacturing, especially to small and medium-sized enterprises (SMEs).
 
 We do that, by developing and supporting open-source-projects like 
-- [nanoPLM](https://github.com/alekssadowski95/nanoPLM) and
+- [nanoPLM](https://github.com/alekssadowski95/nanoPLM)
 - [FreeCAD](https://github.com/FreeCAD/FreeCAD)
 - [OpenRadioss-WebGUI](https://github.com/alekssadowski95/OpenRadioss-WebGUI)
 
