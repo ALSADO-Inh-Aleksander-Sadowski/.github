@@ -23,6 +23,8 @@ Together with [Altair](https://altair.com/), [Deutsche Raumfahrtagentur im DLR](
 | Date | Event |
 | ----- | ------- |
 | 15.10.2025 | [Konstruktionsleiter-Forum 2025 - Talk "Produktentstehungsprozess im Maschinenbau mit Open Source Software", Würzburg Germany](https://www.konstruktionsleiter-forum.de/programm) |
+| 12.09.2025 | [KiCad Conference Europe 2025 (KiCon) - Talk "Open-Source-Software für Maschinenbau-Startups und KMUs", Bochum, Germany](https://kicon.kicad.org/europe2025/) |
+| 12.09.2025 | [KiCad Conference Europe 2025 (KiCon) - Workshop "Recreating the enclosure for an Electric Guitar Effect PCB in FreeCAD from Linus Torvalds' side-project", Bochum, Germany](https://kicon.kicad.org/europe2025/) |
 | 27.08.2025 | [STARTUP OPEN AIR 2025 - ALSADO booth with open-source-software in manufacturing, Bonn, Germany](https://www.digitalhub.de/soa/startups) |
 | 17.08.2025 | [FrOSCon Conference - Talk "Open-Source-Software für Maschinenbau-Startups und KMUs", Sankt Augustin, Germany](https://programm.froscon.org/froscon2025/talk/d45368ca-879c-416b-aabf-173ebe85d17e/) |
 | 17.08.2025 | [FrOSCon Conference - FreeCAD and OpenRadioss booth, Sankt Augustin, Germany](https://froscon.org/programm/aussteller/) |
